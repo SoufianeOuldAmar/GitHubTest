@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Soufi\\Desktop\\GitHubTest\\GitHubTest.csproj",
+      "projectUniqueName": "C:\\Users\\Soufi\\Desktop\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
       "projectName": "GitHubTest",
-      "projectPath": "C:\\Users\\Soufi\\Desktop\\GitHubTest\\GitHubTest.csproj",
+      "projectPath": "C:\\Users\\Soufi\\Desktop\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
       "packagesPath": "C:\\Users\\Soufi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Soufi\\Desktop\\GitHubTest\\obj\\",
+      "outputPath": "C:\\Users\\Soufi\\Desktop\\GitHubTest\\GitHubTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
